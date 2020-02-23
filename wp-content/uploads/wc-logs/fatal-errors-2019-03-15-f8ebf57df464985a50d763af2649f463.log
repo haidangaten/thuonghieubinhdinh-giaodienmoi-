@@ -1,0 +1,4 @@
+2019-03-15T03:41:45+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in E:\xampp\htdocs\thbdfnfn\wp-includes\wp-db.php on line 1924
+
+2019-03-15T07:35:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in E:\xampp\htdocs\thbdfnfn\wp-includes\Requests\Transport\cURL.php on line 441
+
